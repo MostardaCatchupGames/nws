@@ -21,5 +21,6 @@
   ["WANT_COINS", "Você gostaria de ganhar {number} moedas assistindo a um anúncio?"],
   ["NO_THANKS","Não, obrigado"],
   ["_SUCCESS","Sucesso"],
-  ["_NEXT","Próximo"]
+  ["_NEXT","Próximo"],
+  ["_YOU_WIN","Você Ganhou"]
 ]
