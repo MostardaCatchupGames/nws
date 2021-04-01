@@ -1,4 +1,17 @@
 [
+  ["_LOADING", "Carregando"],
+  ["GAME_NAME", "Caça Palavras"],
+  ["START_GAME", "Começar"],
+  ["CHANGE_LANGUAGE", "Mudar idioma"],
+  ["CHOOSE_LANGUAGE", "Escolha o idioma"],
+  ["GO_BACK", "Voltar"],
+  ["pt_BR", "Português do Brasil"],
+  ["pt_PT", "Português"],
+  ["en", "Inglês"],
+  ["es", "Espanhol"], 
+  ["de", "Alemão"], 
+  ["it", "Italiano"], 
+  ["fr", "Francês"],
   ["_CHALLENGE_GROUP_LABEL_1", "Grupo de teste"],
   ["_CHALLENGE_GROUP_LABEL_2", "Grupo dois"]
 ]
