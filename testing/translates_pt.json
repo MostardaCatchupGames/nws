@@ -22,5 +22,7 @@
   ["NO_THANKS","Não, obrigado"],
   ["_SUCCESS","Sucesso"],
   ["_NEXT","Próximo"],
-  ["_YOU_WIN","Você Ganhou"]
+  ["_YOU_WIN","Você Ganhou"],
+  ["_ERROR_ON_LOADING_GRID", "Erro no carregamento do Desafio."],
+  ["_CONNECTION_NEEDED", "(precisa estar conectado à internet)"]
 ]
