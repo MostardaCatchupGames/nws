@@ -15,7 +15,7 @@
   ["_CHALLENGE_GROUP_LABEL_1", "Grupo de teste"],
   ["_CHALLENGE_GROUP_LABEL_2", "Grupo dois"],
   ["_CONTENT_LOADING", "Carregando o conteúdo"],
-  ["_RETRY", "Tentar novamente"],
+  ["_RETRY", " Tentar novamente "],
   ["_GAIN_COINS", "Ganhe {number} moedas"],
   ["_RESOLVE", "Resolver"],
   ["WANT_COINS", "Você gostaria de ganhar {number} moedas assistindo a um anúncio?"],
