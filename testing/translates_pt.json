@@ -19,7 +19,7 @@
   ["_GAIN_COINS", "Ganhe {number} moedas"],
   ["_RESOLVE", "Resolver"],
   ["WANT_COINS", "Você gostaria de ganhar {number} moedas assistindo a um anúncio?"],
-  ["NO_THANKS","Não, obrigado"],
+  ["_NO_THANKS","Não, obrigado"],
   ["_SUCCESS","Sucesso"],
   ["_NEXT","Próximo"],
   ["_YOU_WIN","Você Ganhou"],
