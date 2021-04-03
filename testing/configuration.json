@@ -1,3 +1,4 @@
 [
-  ["REVIEW_URL", "https://mostardacatchupgames.github.io/#/home"],
+  ["REVIEW_URL_ANDROID", "https://mostardacatchupgames.github.io/#/home"],
+  ["REVIEW_URL_IOS", "https://mostardacatchupgames.github.io/#/privacy-policy"],
 ]
