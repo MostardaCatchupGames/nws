@@ -27,5 +27,6 @@
   ["_GRID_LOADING", "Carregando o Desafio"],
   ["_ERROR_ON_LOADING_GRID", "Erro no carregamento do Desafio."],
   ["_CONNECTION_NEEDED", "(precisa estar conectado à internet)"],
-  ["WOULD_YOU_LIKE_TO_REVIEW", "Gostaria de avaliar nosso jogo?"]
+  ["WOULD_YOU_LIKE_TO_REVIEW", "Gostaria de avaliar nosso jogo?"],
+  ["REDIRECTING_TO_STORE", "Redirecionando para a loja"]
 ]
