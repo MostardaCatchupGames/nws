@@ -1,4 +1,6 @@
 {
   "REVIEW_URL_ANDROID": "https://mostardacatchupgames.github.io/#/home",
   "REVIEW_URL_IOS": "https://mostardacatchupgames.github.io/#/privacy-policy",
+  "languages": [ "de_DE","en_GB","en_US","es_AR","es_BO","es_CL","es_CO","es_CR","es_EC","es_ES","es_MX","es_PE","es_PY","es_UY","es_VE","it_CH","it_IT","pt_BR","pt_PT","fr" ],
+
 }
