@@ -4,15 +4,15 @@
     "entities": [
         {
             "name": "Nocturne-in-B-flat-minor_-Op.-9-no.-1.ogg",
-            "value": "value_0"
+            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Nocturne-in-B-flat-minor_-Op.-9-no.-1.ogg"
         },
         {
             "name": "Nocturne-in-B-major_-Op.-9-no.-3.ogg",
-            "value": "value_1"
+            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Nocturne-in-B-major_-Op.-9-no.-3.ogg"
         },
         {
             "name": "Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg",
-            "value": "value_1"
+            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg"
         }
     ]  
 }
