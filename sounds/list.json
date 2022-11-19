@@ -4,15 +4,18 @@
     "entities": [
         {
             "name": "Nocturne-in-B-flat-minor_-Op.-9-no.-1.ogg",
-            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Nocturne-in-B-flat-minor_-Op.-9-no.-1.ogg"
+            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Nocturne-in-B-flat-minor_-Op.-9-no.-1.ogg",
+            "md5": "22f52472610756369edb3c78741d33d3"
         },
         {
             "name": "Nocturne-in-B-major_-Op.-9-no.-3.ogg",
-            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Nocturne-in-B-major_-Op.-9-no.-3.ogg"
+            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Nocturne-in-B-major_-Op.-9-no.-3.ogg",
+            "md5": "22f52472610756369edb3c78741d33d3"
         },
         {
             "name": "Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg",
-            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg"
+            "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg",
+            "md5": "22f52472610756369edb3c78741d33d3"
         }
     ]  
 }
