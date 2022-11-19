@@ -1,6 +1,6 @@
 {
     "name": "musics",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "entities": [
         {
             "name": "Nocturne-in-B-flat-minor_-Op.-9-no.-1.ogg",
@@ -15,7 +15,7 @@
         {
             "name": "Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg",
             "value": "https://github.com/MostardaCatchupGames/nws/raw/main/sounds/Piano-Sonata-no.-11_-K.-331-II.-Menuetto.ogg",
-            "md5": "22f52472610756369edb3c78741d33d3"
+            "md5": "c1e3ef249de5c31dc6e2ae62376ff801"
         }
     ]  
 }
